@@ -11,7 +11,6 @@
 I’m a **Senior Software Engineer** with 6+ years of experience building scalable web applications, APIs, and automation systems.  
 I enjoy solving complex problems and delivering clean, reliable solutions for businesses and clients.
 
-📍 Based in Lahore, Pakistan  
 🌎 Working with international teams (USA & Pakistan)
 
 ---
